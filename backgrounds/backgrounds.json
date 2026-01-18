@@ -440,6 +440,22 @@
     "size": "2.6MB"
   },
   {
+    "id": "bg_image_ruru_56.png",
+    "name": "bg_image_ruru_56",
+    "url": "https://raw.githubusercontent.com/ikaorihara-source/RuKnot-Assets/main/backgrounds/bg_image_ruru_56.png",
+    "thumb": "https://raw.githubusercontent.com/ikaorihara-source/RuKnot-Assets/main/backgrounds/thumb_bg_image_ruru_56.jpg",
+    "isVideo": false,
+    "size": "2.3MB"
+  },
+  {
+    "id": "bg_image_ruru_57.png",
+    "name": "bg_image_ruru_57",
+    "url": "https://raw.githubusercontent.com/ikaorihara-source/RuKnot-Assets/main/backgrounds/bg_image_ruru_57.png",
+    "thumb": "https://raw.githubusercontent.com/ikaorihara-source/RuKnot-Assets/main/backgrounds/thumb_bg_image_ruru_57.jpg",
+    "isVideo": false,
+    "size": "3.1MB"
+  },
+  {
     "id": "bg_video_ruru_01.mp4",
     "name": "bg_video_ruru_01",
     "url": "https://raw.githubusercontent.com/ikaorihara-source/RuKnot-Assets/main/backgrounds/bg_video_ruru_01.mp4",
